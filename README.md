@@ -1,3 +1,1 @@
-
-[image]('Pizza Sales Images
-/delivery-man.png')
+![image]('Pizza Sales Images/delivery-man.png')
