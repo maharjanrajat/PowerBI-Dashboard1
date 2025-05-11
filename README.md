@@ -1,1 +1,1 @@
-![image]('Pizza Sales Images/delivery-man.png')
+![pizza image](/Pizza%20Sales%20Images/delivery-man.png)
